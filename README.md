@@ -1,3 +1,3 @@
 # hello-world
-I don't know what I'm doing/n
+I don't know what I'm doing
 no seriously i don't
